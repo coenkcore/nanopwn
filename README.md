@@ -1,7 +1,7 @@
-# Nanopwn 1.0 Exploit
+# Nanopwn Exploit
 
-## How does it work?
-It will work by using Pwnage 2.0 exploit while in DFU Mode.
+## What is Nanopwn?
+It's a modded version of of Pwnage 2.0 Exploit for the iPod, iPhone, and iPhone 3g. 
 
 
 ## iPod Nano 2g ID's:
