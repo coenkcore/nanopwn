@@ -1,13 +1,16 @@
 # Nanopwn Exploit
 
 ## What is Nanopwn?
-Nanopwn is a hardware exploit for some non-iOS iPods that is based on pwnage 2.0 exploit by the iPhone Dev Team back in 2008. It has been heavily modified to work on these older iPods and currently
+Nanopwn is a exploit in the S5L8900 bootrom for some non-iOS iPods that is based on pwnage 2.0 exploit by the iPhone Dev Team back in 2008. It has been heavily modified to work on these older iPods and currently it can only do limited things.
 
-## iPod Nano 2g ID's:
- - Vendor ID: 05ac
- - Normal Product ID: 1260
- - DFU Product ID: 1220
- - WTF Product ID: 1240
+## Device Support
+- iPod Nano 2g (Needs to have pins shorted to enter DFU)
+- iPod Nano 3g 
+- iPod Nano 4g
+- iPod Classic 1g
+- iPod Classic 2g
+- iPod Classic 3g
+
 
 ## Custom Firmwares
 Custom Firmwares are still being worked on. But we have gotten iTunes to restore to any IPSW and ignore all checks and force restore anyways.
