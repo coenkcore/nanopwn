@@ -11,9 +11,8 @@ Nanopwn is a exploit in the S5L8900 bootrom for some non-iOS iPods that is based
 - iPod Classic 2g
 - iPod Classic 3g
 
-
 ## Custom Firmwares
-Custom Firmwares are still being worked on. But we have gotten iTunes to restore to any IPSW and ignore all checks and force restore anyways.
+Custom Firmwares are still being worked on. But we have gotten iTunes to restore to any IPSW and ignore all checks and force restore anyways. But at these moment we can only downgrade to any firmware version and a stock to disk mode ipsw.
 
 
 ## Catalogue
