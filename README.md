@@ -1,8 +1,7 @@
 # Nanopwn Exploit
 
 ## What is Nanopwn?
-It's a modded version of of Pwnage 2.0 Exploit for the iPod, iPhone, and iPhone 3g. 
-
+Nanopwn is a hardware exploit for some non-iOS iPods that is based on pwnage 2.0 exploit by the iPhone Dev Team back in 2008. It has been heavily modified to work on these older iPods and currently
 
 ## iPod Nano 2g ID's:
  - Vendor ID: 05ac
