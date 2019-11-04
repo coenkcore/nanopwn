@@ -4,7 +4,7 @@
 Nanopwn is a exploit in the S5L8900 bootrom for some non-iOS iPods that is based on pwnage 2.0 exploit by the iPhone Dev Team back in 2008. It has been heavily modified to work on these older iPods and currently it can only do limited things.
 
 ## Device Support
-* = Support Comming Soon
+"*" = Support Comming Soon
 - iPod Nano 2g (Needs to have pins shorted to enter DFU) *
 - iPod Nano 3g 
 - iPod Nano 4g *
