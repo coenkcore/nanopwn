@@ -15,6 +15,15 @@ Nanopwn is a bootrom exploit for some non-iOS iPods that is based on iRan by geo
 ## Warning
 This could brick your iPod. We offer NO SUPPORT on this at all if something happens to your device, use with caution. Make  sure you read all popups when running this. 
 
+## How to run this
+- Download it from releases and do a md5 checksum
+- Unzip it and cd into the folder
+- Also note that you need to compile OpenSSL from source to use this.
+- Then plug in your iPod in Normal mode
+- Run ```./nanopwn```
+- Follow what it says
+- Profit?
+
 ## What can I do with this?
 Nothing yet it just puts your iPod into pwned DFU mode. If you want something useful wait for Gyruu which supports all iPods.
 
