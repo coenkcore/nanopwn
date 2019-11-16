@@ -13,7 +13,7 @@ Nanopwn is a bootrom exploit for some non-iOS iPods that is based on iRan by geo
 - iPod Classic 3g *
 
 ## Custom Firmwares
-Custom Firmwares are still being worked on. But we have gotten iTunes to restore to any IPSW and ignore all checks and force restore anyways. But at this moment we can only downgrade to any firmware version and a stock to disk mode ipsw.
+Custom Firmwares are still being worked on. No ETA.
 
 ## Catalogue
 - 1.0.0b1: First private beta release 
