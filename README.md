@@ -12,6 +12,12 @@ Nanopwn is a bootrom exploit for some non-iOS iPods that is based on iRan by geo
 - iPod Classic 2g *
 - iPod Classic 3g *
 
+## Warning
+This could brick your iPod. We offer NO SUPPORT on this at all if something happens to your device, use with cation. Make your to read all popups when running this. 
+
+## What can I do with this?
+Nothing yet it just puts your iPod into pwndfu. If you want something useful wait for Gyruu which supports all iPods.
+
 ## Custom Firmwares
 Custom Firmwares are still being worked on. No ETA.
 
