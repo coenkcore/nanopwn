@@ -27,4 +27,8 @@ Custom Firmwares are still being worked on. No ETA.
 
 Source will uploaded once out of beta. Check Releases for the Downloads
 
-
+## Credits
+- tie1r for Nanopwn
+- Lex for fixing iRan and the [source](http://lexploit.com/iRan) for it
+- iPhone Dev team for Pwnage 2.0 bootrom exploit
+- freemyipod.org for DFU PID's
